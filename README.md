@@ -1,5 +1,12 @@
 # Testdrive
 
+CLONE THE TEST BRANCH AND DO DEVELOPMENT ON IT.
+
+TEST BRANCH WILL BE MERGED WITH MASTER ONLY AFTER SUCESSFULL TESTING.
+
+`git clone https://github.com/freaky4133/testdrive.git -b test`
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
