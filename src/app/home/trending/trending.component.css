@@ -125,8 +125,8 @@ div.card-deck a:hover {
 @media only screen and (max-width: 400px) {
 
   .cardstyle {
-    width: 80px;
-    height: 102px;
+    width: 100px;
+    height: 128px;
     margin-bottom: 5px;
     margin-left: 5px;
     margin-right: 5px;
@@ -145,6 +145,29 @@ div.card-deck a:hover {
   }
 
 }
+
+
+
+
+@media only screen and (max-width: 360px) {
+
+  .cardstyle {
+    width: 100px;
+    height: 128px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  h4 {
+    font-size: 12px;
+  }
+
+  .row:nth-child(3) {
+    margin-top: 0px;
+  }
+}
+
 
 @media only screen and (max-width: 300px) {
 
