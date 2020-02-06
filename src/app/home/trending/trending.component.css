@@ -99,7 +99,7 @@ div.card-deck a:hover {
     font-size: 14px;
   }
 
-  .row:nth-child(3) {
+  .row:nth-child(2) {
     margin-top: 0px;
   }
 
@@ -110,6 +110,9 @@ div.card-deck a:hover {
   .cardstyle {
     width: 80px;
     height: 102px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
   .row:nth-child(3) {
@@ -133,7 +136,7 @@ div.card-deck a:hover {
   }
 
   h4 {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   a:nth-child(4) {
