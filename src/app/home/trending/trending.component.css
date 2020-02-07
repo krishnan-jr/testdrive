@@ -30,6 +30,22 @@ div.card-deck a:hover {
   }
 }
 
+.btnclass{
+  width: 198px;
+height: 40px;
+background: transparent;
+border: 2px solid #0d3d62;
+margin-top: 25px;
+text-align: center;
+margin-left: auto;
+margin-right:auto;
+display: block
+}
+.btnclass:hover{
+  background: #f30;
+}
+
+
 @media only screen and (max-width: 1050px) {
   .cardstyle {
     width: 170px;
@@ -122,6 +138,13 @@ div.card-deck a:hover {
   h4 {
     font-size: 11px;
   }
+
+  .btnclass{
+    width: 115px;
+  height: 32px;
+  font-size: 13px;
+  padding: inherit;
+}
 
 }
 
